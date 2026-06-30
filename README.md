@@ -1,5 +1,9 @@
 # Task Manager API
 
+[![CI](https://github.com/Jaceballos052/-task-manager-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Jaceballos052/-task-manager-api/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![Tests](https://img.shields.io/badge/tests-11%20passed-brightgreen)
+
 REST API for task management built with **FastAPI**, **PostgreSQL**, **Docker** and **Pytest**.
 
 ## Tech Stack
